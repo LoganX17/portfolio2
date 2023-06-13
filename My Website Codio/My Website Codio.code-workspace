@@ -4,13 +4,13 @@
 			"path": "."
 		},
 		{
-			"path": "../CSS"
+			"path": "CSS"
 		},
 		{
-			"path": "../Images"
+			"path": "Images"
 		},
 		{
-			"path": "../JS"
+			"path": "JS"
 		}
 	],
 	"settings": {
